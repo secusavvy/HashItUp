@@ -20,7 +20,7 @@ HashItUp is a simple Python script that allows users to hash their messages usin
 
 2. Run the script:
    ```bash
-   Code.py
+   HashItUp.py
    ```
 
 3. Follow the prompts to enter your message.
