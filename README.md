@@ -14,7 +14,7 @@ HashItUp is a simple Python script that allows users to hash their messages usin
 ### Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/0xKN0T/HashItUp.git
+   git clone https://github.com/secusavvy/HashItUp.git
    cd HashItUp
    ```
 
